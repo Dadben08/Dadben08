@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm DADA Benjamin</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dadben08" alt="dadben08" /></a> </p>
+
 - 🌱 I’m currently learning **REST API, MongoDB, Tailwind, Bootstrap, react, Node.js**
 
 - 💬 Ask me about **react, mongoDB,REST API, Tailwind, Bootstrap**
