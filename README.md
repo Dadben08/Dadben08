@@ -14,8 +14,7 @@ Skills:
 <li>JavaScript</li>
 <li>React.js</li>
 <li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
-</ul> <br>
-
+</ul> 
 <h3>Backend Development:</h3><br>
 <ul>
 <li>Node.js </li>
@@ -23,7 +22,7 @@ Skills:
   <li>RESTful API development </li>
   <li>Database management with MongoDB and Mongoose</li>
 </ul>
-<h3>Tools and Technologies:</h3><br>
+<h3>Tools and Technologies:</h3>
 <ul>
   <li>Git and GitHub</li>
   <li>Postman for API testing</li>
