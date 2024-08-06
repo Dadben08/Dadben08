@@ -24,9 +24,6 @@ Skills:
   <li>npm and npx</li>
 </ul>
 
-Personal Statement:
-As a fullstack engineer, I thrive on turning complex ideas into elegant solutions through code. I am passionate about learning and enjoy tackling challenges that come my way. Whether it's developing a new feature, optimizing an existing system, or exploring new technologies, I am always eager to expand my knowledge and contribute to impactful projects. </p>
-
 - 🌱 I’m currently learning **REST API, MongoDB, Tailwind, Bootstrap, react, Node.js**
 
 - 💬 Ask me about **react, mongoDB,REST API, Tailwind, Bootstrap**
