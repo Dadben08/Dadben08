@@ -7,7 +7,7 @@ Profession: Fullstack Engineer<br>
 Strengths: Turning complex ideas into elegant solutions through code
 Hobbies: Enjoys learning while tackling challenges<br><br>
 Skills:
-<h3>Frontend Development:</h3><br>
+<h3>Frontend Development:</h3>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -15,7 +15,7 @@ Skills:
 <li>React.js</li>
 <li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
 </ul> 
-<h3>Backend Development:</h3><br>
+<h3>Backend Development:</h3>
 <ul>
 <li>Node.js </li>
   <li>Express.js </li>
