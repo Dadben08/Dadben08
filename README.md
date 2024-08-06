@@ -1,26 +1,39 @@
 <h1 align="center">Hi 👋, I'm DADA Benjamin</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-<p align="left"> Personal Information:
-Name: Dada Benjamin
-Profession: Fullstack Engineer
+<p align="left"> <h2>Personal Information:</h2>
+Name: Dada Benjamin<br>
+Profession: Fullstack Engineer<br>
 Strengths: Turning complex ideas into elegant solutions through code
-Hobbies: Enjoys learning while tackling challenges
+Hobbies: Enjoys learning while tackling challenges<br><br>
 Skills:
-Frontend Development:
-HTML, CSS, JavaScript
-React.js
-CSS Frameworks (Bootstrap, Tailwind CSS)
-Backend Development:
-Node.js, Express.js
-RESTful API development
-Database management with MongoDB and Mongoose
-Tools and Technologies:
-Git and GitHub
-Docker
-Postman for API testing
-npm and npx
-Projects:
+<h3>Frontend Development:</h3><br>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>React.js</li>
+<li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
+</ul> <br>
+
+<h3>Backend Development:</h3><br>
+<ul>
+<li>Node.js </li>
+  <li>Express.js </li>
+  <li>RESTful API development </li>
+  <li>Database management with MongoDB and Mongoose</li>
+</ul>
+<h3>Tools and Technologies:</h3><br>
+<ul>
+  <li>Git and GitHub</li>
+  <li>Postman for API testing</li>
+  <li>npm and npx</li>
+</ul>
+
+
+
+<h3>Projects:</h3>
+
 Web Application with Express:
 
 Created a multi-page web application using Express.js
