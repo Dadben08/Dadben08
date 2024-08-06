@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm DADA Benjamin</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-<p align="left"> <h2>Personal Information:</h2>
-Name: Dada Benjamin<br>
-Profession: Fullstack Engineer<br>
-Strengths: Turning complex ideas into elegant solutions through code
-Hobbies: Enjoys learning while tackling challenges<br><br>
 Skills:
 <h3>Frontend Development:</h3>
 <ul>
@@ -29,28 +24,6 @@ Skills:
   <li>npm and npx</li>
 </ul>
 
-
-
-<h3>Projects:</h3>
-
-Web Application with Express:
-
-Created a multi-page web application using Express.js
-Implemented custom middleware for handling working hours
-Used a template engine for styling
-Mongoose Project Organization:
-
-Separated database configuration, models, routes, and controllers
-Handled CRUD operations for a User model
-Shopping Cart Project:
-
-Implemented Object-Oriented JavaScript (OOJ) principles
-Created classes for products, shopping cart items, and the shopping cart itself
-Developed methods for adding, removing, and displaying items
-Experience:
-Project Development:
-Skilled in organizing projects with a clear separation of concerns
-Experienced in creating middleware to handle specific application requirements
 Personal Statement:
 As a fullstack engineer, I thrive on turning complex ideas into elegant solutions through code. I am passionate about learning and enjoy tackling challenges that come my way. Whether it's developing a new feature, optimizing an existing system, or exploring new technologies, I am always eager to expand my knowledge and contribute to impactful projects. </p>
 
